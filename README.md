@@ -4,6 +4,7 @@ autonomous driving toolbox
 ## Released
 * [imap](https://github.com/daohu527/imap) - Imap is a tool for visualize and convert format of the hd-map. This project was inspired by Apollo.
 * [ndt_mapping](https://github.com/daohu527/ndt_mapping) - This is Baidu apollo offline mapping tool.
+* [cyber_record](https://github.com/daohu527/cyber_record) - Cyber record file offline parse tool.
 
 ## Developing
 * [ibag](https://github.com/daohu527/ibag) - Bag visualization, analysis and transformation tool
