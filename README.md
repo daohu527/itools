@@ -8,6 +8,7 @@ autonomous driving toolbox
 
 ## Developing
 * [ibag](https://github.com/daohu527/ibag) - Bag visualization, analysis and transformation tool
+* [record_msg](https://github.com/daohu527/record_msg) - record message parse helper function
 
 ## Todo
 * [iviz](https://github.com/daohu527/iviz) - 3D visualization tool for autonomous vehicle
