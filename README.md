@@ -10,11 +10,10 @@ autonomous driving toolbox
 ## Developing
 * [ibag](https://github.com/daohu527/ibag) - Bag visualization, analysis and transformation tool
 * [rqt_record](https://github.com/daohu527/rqt_record) - Apollo record visualization tool
-
+* [ilego_loam](https://github.com/daohu527/ilego_loam) - Porting lego-loam to cyber architecture
 
 ## Todo
 * [iviz](https://github.com/daohu527/iviz) - 3D visualization tool for autonomous vehicle
-* [ilego_loam](https://github.com/daohu527/ilego_loam) - Porting lego-loam to cyber architecture
 * [davinci](https://github.com/daohu527/davinci) - Deep learning paper recurrence, perception baseline
 * [duku](https://github.com/daohu527/duku) - efficient, concise high-precision map library
 * [helmsman](https://github.com/daohu527/helmsman) - motion planning library
