@@ -9,6 +9,7 @@ autonomous driving toolbox
 
 ## Developing
 * [ibag](https://github.com/daohu527/ibag) - Bag visualization, analysis and transformation tool
+* [rqt_record](https://github.com/daohu527/rqt_record) - Apollo record visualization tool
 
 
 ## Todo
