@@ -8,11 +8,12 @@ autonomous driving toolbox
 * [record_msg](https://github.com/daohu527/record_msg) - record message parse helper function
 
 ## Developing
+* [pb_rosmsg](https://github.com/daohu527/pb_rosmsg) rosmsg protobuf format
 * [ibag](https://github.com/daohu527/ibag) - Bag visualization, analysis and transformation tool
-* [rqt_record](https://github.com/daohu527/rqt_record) - Apollo record visualization tool
 * [ilego_loam](https://github.com/daohu527/ilego_loam) - Porting lego-loam to cyber architecture
 
 ## Todo
+* [rqt_record](https://github.com/daohu527/rqt_record) - Apollo record visualization tool
 * [iviz](https://github.com/daohu527/iviz) - 3D visualization tool for autonomous vehicle
 * [davinci](https://github.com/daohu527/davinci) - Deep learning paper recurrence, perception baseline
 * [duku](https://github.com/daohu527/duku) - efficient, concise high-precision map library
