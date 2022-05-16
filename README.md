@@ -11,6 +11,7 @@ autonomous driving toolbox
 ## Developing
 * [ibag](https://github.com/daohu527/ibag) - Bag visualization, analysis and transformation tool
 * [ilego_loam](https://github.com/daohu527/ilego_loam) - Porting lego-loam to cyber architecture
+* [core](https://github.com/Flycars/core) - cyber 
 
 ## Todo
 * [rqt_record](https://github.com/daohu527/rqt_record) - Apollo record visualization tool
