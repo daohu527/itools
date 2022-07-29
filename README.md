@@ -6,6 +6,7 @@ autonomous driving toolbox
 * [ndt_mapping](https://github.com/daohu527/ndt_mapping) - This is Baidu apollo offline mapping tool.
 * [cyber_record](https://github.com/daohu527/cyber_record) - Cyber record file offline parse tool.
 * [record_msg](https://github.com/daohu527/record_msg) - record message parse helper function
+* [pycyber](https://github.com/daohu527/pycyber) - apollo cyber python package
 * [pb_rosmsg](https://github.com/daohu527/pb_rosmsg) rosmsg protobuf format
 
 ## Developing
